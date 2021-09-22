@@ -1,3 +1,5 @@
+// JS 1 Lesson 6
+
 class Animal {
     constructor(name, legs) {
         this.name = name
